@@ -2,12 +2,20 @@
 <!--
 **nick2474/nick2474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p>
+<ul>
+<li>🔭 I’m currently working on finding a new remote job opportunity as a Software engineer.</li>
+<li>🌱 I’m currently learning about new web development technologies and frameworks to stay up-to-date with the industry.</li>
+<li>👯 I’m looking to collaborate on any project related to web development, mobile app development, or UX/UI design.</li>
+<li>🤔 I’m looking for help with finding a new remote job opportunity.</li>
+<li>💬 Ask me about my experience with full-stack web development, mobile app development, or my proficiency with various programming languages and frameworks.</li>
+</ul>
 
-🔭 I’m currently working on finding a new remote job opportunity as a Software engineer.
-🌱 I’m currently learning about new web development technologies and frameworks to stay up-to-date with the industry.
-👯 I’m looking to collaborate on any project related to web development, mobile app development, or UX/UI design.
-🤔 I’m looking for help with finding a new remote job opportunity.
-💬 Ask me about my experience with full-stack web development, mobile app development, or my proficiency with various programming languages and frameworks.
+
+
+
+
+<p>
 <code>
 <pre>
 class DidierHernandez(self):
