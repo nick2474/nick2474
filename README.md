@@ -9,7 +9,7 @@
 <li>💬 Ask me about my experience with full-stack web development, mobile app development, or my proficiency with various programming languages and frameworks.</li>
 </ul>
 <p>
-<code>
+<pre>
 class DidierHernandez(self):
     self.username = 'didierh'
     self.name = 'Didier Hernandez'
@@ -46,6 +46,8 @@ class DidierHernandez(self):
 
 def __str__(self):
     return self.name
+    
 if name == 'main':
     me = DidierHernandez()
-</code>
+    
+</pre>
