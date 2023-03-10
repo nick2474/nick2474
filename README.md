@@ -6,7 +6,8 @@
 <li>🌱 I’m currently learning about new web development technologies and frameworks to stay up-to-date with the industry.</li>
 <li>👯 I’m looking to collaborate on any project related to web development, mobile app development, or UX/UI design.</li>
 <li>🤔 I’m looking for help with finding a new remote job opportunity.</li>
-<li>💬 Ask me about my experience with full-stack web development, mobile app development, or my proficiency with various programming languages and frameworks.</li>
+<li>💬 Ask me about my experience with full-stack web development, mobile app development, 
+or my proficiency with various programming languages and frameworks.</li>
 </ul>
 <p>
 <pre>
@@ -41,7 +42,9 @@ class DidierHernandez(self):
             'repos': ['https://github.com/nick2474?tab=repositories']
         }, 
         self.languages{
-            'tools':['PHP','C#','Linux','ReactJS','AngulaJS','Oracle','Ruby on Rail', 'Umbraco','NodeJS','Pyton','Ionic Framework','Flutter','Java','SpringFramework','Figma','and more..']
+            'tools':['PHP','C#','Linux','ReactJS','AngulaJS','Oracle',
+                      'Ruby on Rail', 'Umbraco','NodeJS','Pyton','Ionic Framework',
+                      'Flutter','Java','SpringFramework','Figma','and more..']
         }
 
 def __str__(self): 
