@@ -1,7 +1,5 @@
 ### Hi there 👋
-<!--
-**nick2474/nick2474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <p>
 <ul>
 <li>🔭 I’m currently working on finding a new remote job opportunity as a Software engineer.</li>
