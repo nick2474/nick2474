@@ -29,18 +29,19 @@ class DidierHernandez(self):
         self.code = {
             'erp': ['Odoo'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Bootstrap','React','Vue'],
-            'backend': ['Python', 'PHP', 'Laravel', 'Flask','Node.Js','Express'],
-            'database': ['MySQL', 'PostgreSQL', 'MongoDB'],
-            'devops': ['Docker', 'Digital Ocean','Hetzner', 'Jenkins'],
+            'backend': ['Python', 'PHP', 'Laravel', 'Flask','Node.Js','Express','Oracle', 'Informix'],
+            'database': ['MySQL', 'PostgreSQL', 'MongoDB','Oracle','SQLServer'],
+            'devops': ['Docker', 'Jenkins'],
+            'cloudprovider': ['Digital Ocean','Hetzner', 'AWS', 'Google'],
             'tools': ['GIT', 'GitHub', 'Bitbucket', 'Jira'],
-            'ides': ['Visual Studio Code', 'PyCharm','SublimeText'],
+            'ides': ['Visual Studio Code', 'PyCharm','SublimeText','Xcode','Eclipse','Android Studio'],
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'Android','IOS','Ionic Framework']
         },
         self.projects = {
             'repos': ['https://github.com/nick2474?tab=repositories']
         }, 
         self.languages{
-            'tools':['PHP','C#','Linux','ReactJS','AngulaJS','Oracle','Ruby on Rail', 'Umbraco','NodeJS','Pyton','Ionic Framework','Flutter','Java','SpringFramework','and more..']
+            'tools':['PHP','C#','Linux','ReactJS','AngulaJS','Oracle','Ruby on Rail', 'Umbraco','NodeJS','Pyton','Ionic Framework','Flutter','Java','SpringFramework','Figma','and more..']
         }
 
 def __str__(self):
