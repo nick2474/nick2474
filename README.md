@@ -44,10 +44,10 @@ class DidierHernandez(self):
             'tools':['PHP','C#','Linux','ReactJS','AngulaJS','Oracle','Ruby on Rail', 'Umbraco','NodeJS','Pyton','Ionic Framework','Flutter','Java','SpringFramework','Figma','and more..']
         }
 
-def __str__(self):
-    return self.name
+def __str__(self): 
+&nbsp;&nbsp;&nbsp;&nbsp;return self.name
     
 if name == 'main':
-    me = DidierHernandez()
-    
+&nbsp;&nbsp;&nbsp;&nbsp;me = DidierHernandez()
+
 </pre>
