@@ -13,9 +13,9 @@ or my proficiency with various programming languages and frameworks.</li>
 <pre>
 class DidierHernandez(self):
     self.username = 'didierh'
-    self.name = 'Didier Hernandez'
-    self.web = 'https://didierm.wordpress.com'
-    self.resume = 'https://didierm.wordpress.com/profile' #Get in touch for Password.
+    self.name = 'Didierh'
+    self.web = 'https://didierhm.wordpress.com'
+    self.resume = 'https://didierhm.wordpress.com/profile' #Get in touch for Password.
     self.twitter = '@nick2474'
     self.linkedin = 'https://www.linkedin.com/in/didier-hernandez/'
     self.source = {
@@ -51,6 +51,6 @@ def __str__(self):
 &nbsp;&nbsp;&nbsp;&nbsp;return self.name
     
 if name == 'main':
-&nbsp;&nbsp;&nbsp;&nbsp;me = DidierHernandez()
+&nbsp;&nbsp;&nbsp;&nbsp;me = Didierh()
 
 </pre>
