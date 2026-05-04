@@ -5,7 +5,7 @@
 
 <!-- Badges / Social -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/didier-hernandez/" target="_blank">
+  <a href="https://www.linkedin.com/in/didierhm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://didierhm.wordpress.com" target="_blank">
@@ -30,7 +30,7 @@ class DidierHernandez:
         self.lived_in   = ["Costa Rica", "Miami, FL 🇺🇸"]
         self.education  = "Information Systems Engineering – ULACIT"
         self.web        = "https://didierhm.wordpress.com"
-        self.linkedin   = "https://www.linkedin.com/in/didier-hernandez/"
+        self.linkedin   = "https://www.linkedin.com/in/didierhm/"
         self.twitter    = "@nick2474"
 
         self.seeking    = "Remote Software Engineer opportunities 🌐"
@@ -113,12 +113,12 @@ print(me)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nick2474&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2474&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nick2474&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2474&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nick2474&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nick2474&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -142,7 +142,7 @@ print(me)
 |----------|------|
 | 🌐 Portfolio | [didierhm.wordpress.com](https://didierhm.wordpress.com) |
 | 💼 Resume | [didierhm.wordpress.com/profile](https://didierhm.wordpress.com/profile) *(Password protected – DM me)* |
-| 💼 LinkedIn | [linkedin.com/in/didier-hernandez](https://www.linkedin.com/in/didier-hernandez/) |
+| 💼 LinkedIn | [linkedin.com/in/didierhm](https://www.linkedin.com/in/didierhm/) |
 | 🐦 Twitter | [@nick2474](https://twitter.com/nick2474) |
 | 📁 Repos | [github.com/nick2474](https://github.com/nick2474?tab=repositories) |
 
