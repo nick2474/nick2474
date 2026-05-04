@@ -52,6 +52,45 @@ print(me)
 
 ---
 
+## 🚀 Recent Projects & Experience
+
+### 🤖 AI-Powered Real-Time Trading Analysis System
+> *2025 – Personal Project | 3 months of development*
+
+A technically complex, production-grade system that monitors financial markets in real time and generates AI-powered confidence-scored trading signals — all under 30 seconds per cycle.
+
+**📡 What it does:**
+- Monitors **+7 symbols**: XAU, EUR/USD, BTC, GBP, JPY, XAG, NAS100
+- Reads **multi-timeframe market structure** from D1 down to M1
+- Generates **confidence-scored entry signals** before each trade
+- Pushes **live analysis to Telegram** in real time
+
+**🏗️ Architecture:**
+
+| Layer | Technology |
+|-------|-----------|
+| ⚙️ Backend | Python + FastAPI |
+| 🎨 Frontend | React + Vite.js |
+| 📈 Market Data | MetaTrader 5 API Bridge |
+| 🤖 AI Engines | OpenAI · DeepSeek · Claude (by complexity) |
+| 📲 Notifications | Telegram Bot |
+| 🖥️ Platform | GNU/Linux (WSL Ubuntu) |
+
+**🔖 Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+
+> 💡 *"The most underestimated part of financial systems engineering isn't the algorithm — it's the integration layer: making technologies that weren't designed to work together do exactly that, reliably, fast, and without failure."*
+
+[![LinkedIn Post](https://img.shields.io/badge/View_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7450169505097519104/)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
